@@ -2,7 +2,9 @@ DESCRIPTION:
 ----------------------
 DynaDup is a Java program based on the phylonet (bioinfo.cs.rice.edu/phylonet) for estimating species trees given a set of rooted gene trees, such that duplications or duplication and losses are minimized (approximately). The algorithm used is described in:
 
-S. Bayzid, S. Mirarab, T. Warnow, "Optimal Species Trees under Gene Duplication and Loss", PSB 2013, in press. 
+1. M. S. Bayzid, S. Mirarab, T. Warnow, "Optimal Species Trees under Gene Duplication and Loss", PSB 2013.
+
+2. M. S. Bayzid, T. Warnow, "Gene Tree Parsimony for Incomplete Gene Trees" (submitted to WABI 2017).
 
 
 INSTALLATION:
